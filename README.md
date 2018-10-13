@@ -82,6 +82,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Manank Patni](https://github.com/Man-Jain) | II | IT | [@Man-Jain](https://hacktoberfest.digitalocean.com/stats/Man-Jain) |
 | Kanika Agrawal | II | IT | |
 | [Saket Kumar Sankrit](https://github.com/098saket) | III | IT | [@098saket](https://hacktoberfest.digitalocean.com/stats/098saket) | |
+| [Aditi Singh]| II | CSE | [@atiswift](https://github.com/atiswift) |
 | [Prudhvi Rambha](https://github.com/prudhvirambha) | III | CSE | [@prudhvirambha](https://hacktoberfest.digitalocean.com/stats/prudhvirambha) | |
 | Abhimanyu Shekhawat | II | IT | |
 | Harshita Saxena | II | IT | |
@@ -112,5 +113,3 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Sokratis Fotkatzikis | I | IT | [@sokratis12GR](https://hacktoberfest.digitalocean.com/stats/sokratis12GR) |
 | Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 | [Aditya Kaushik](https://github.com/aditya98ak) | III | CSE | [@aditya98ak](https://hacktoberfest.digitalocean.com/stats/aditya98ak)|
-
-
